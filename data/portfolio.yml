@@ -1,58 +1,82 @@
 portfolioitems:
   # portfolio category
   - title: Technical Writing Projects
-    description: 'All my Technical Writing Projects'
+    description: ''
     portfolioitem:
-      - name: Project 1
+      - name: Information Architecture Analysis of the TUF Website 
         image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
+        link: https://github.com/Dindihub/TUF-docs-analysis/tree/main/analyses/0012-TUF
         linktext: 'Visit project website'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'This project was part of the Linux Foundation mentorship program.I focused on analyzing The Update Framework (TUF) documentation and providing improvement according to the CNCF standards.I worked with several mentors from CNCF and TUF to provide improvement to the current website which included creating a new documentation website.'
         tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
-        start: '2020'
-        end: '2021'
+          - TUF
+          - CNCF
+          - Docsy
+        status: 'Completed'
+        start: 'May 2024'
+        end: 'August 2024'
         authors:
-          - lxndrblz
-          - alexanderdavide
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        status: 'On Hold'
+          - Sandra Dindi
+          - Patrice Chalin
+      - name: TUF Website Design 
+        image: '/images/portfolio/website-TUF.png'
+        link: https://theupdateframework.io/
+        description: 'After the TUF website analysis, I designed a new website with a new Information Architecture based on the Hugo Docsy theme.'
+        status: 'Completed'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        link: https://gohugo.io/
+    
+        authors:
+          - Sandra Dindi
+          - Patrice Chalin
+      - name: Kubernetes Glossary for SemaText Group
+        image: '/images/portfolio/sematext.png'
+        link: https://sematext.com/glossary/kubernetes-quality-of-service-classes/
         status: 'Finished'
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         tags:
-          - Tag 1
-          - Tag 2
+          - Kubernetes
+          - DevOps
   # portfolio category
-  - title: Research
-    description: 'All my research projects'
+  - title: Technical guides and Tutorials
+    description: ''
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        description: 'This project does not have a link attribute'
+      - name: How-to-guide for Early Access
+        link: https://www.earlyaccesshq.com/resources/guide/how-to-create-a-waitlist-page
+        description: 'A product guide I wrote for Earlyaccesshq.com. It makes it easier for users to optimize the product’s advanced features to create a wailist tailored for business and marketing campaigns.'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+          - earlyaccess
+
+      - name: CI/CD with GitHub Actions
+        link: https://nyartech.hashnode.dev/create-a-cicd-process-with-github-actions
+        description: 'This is a How-to-guide on how to use Git Actions in DevOps processes to manage modern, cloud-native applications requiring fast and frequent updates.This was a personal project, a step-to-step guide on building, testing, and deploying merged pull requests to production with GitHub ActionsProjects portfolio'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
+          - githubactions
+          - cicd
+
+     # portfolio category
+  - title: Blog posts
+    description: 'Marketing and Procedural Articles'
+    portfolioitem:
+      - name: Make Use Of (MUO)
+        link: https://www.makeuseof.com/author/sandra-dindi/
+        description: 'I have a collection of Blogs from several websites. This is one from the Make Use Of (MUO) website.'
         tags:
-          - Tag 1
-          - Tag 2
+      
+
+      - name: My Hashnode blog
+        link: https://nyartech.hashnode.dev/
+        description: "I write about the new technologies that I'm learning on this blog "
+        tags:
+          
+  - title: API Documentation
+    description: 'Personal projects on API Docs '
+    portfolioitem:
+      - name: Twilio API Reference Documentation on Readme.io
+        link: https://twilio-api-docs.readme.io/reference/getting-started-with-your-api
+        description: 'A personal project trying to document the Twilio API on Readme.io'
+        tags:
+
+      - name: TMDB Movies API Reference Documentation on Postman
+        link: https://documenter.getpostman.com/view/23043806/2s9YXb8QQ9
+        description: 'A personal project trying to recreate the TMDB Movies API reference documentation Postman'
+        tags:
