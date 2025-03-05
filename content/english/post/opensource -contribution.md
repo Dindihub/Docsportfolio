@@ -2,6 +2,10 @@
 title: 'How to Contribute to Opensource as a Technical Writer'
 date: 2022-09-21T21:47:41+00:00
 draft: false
+tags : [
+    "thumbnail",
+]
+thumbnail: "images/landscape.jpg"
 
 ---
 

@@ -2,7 +2,10 @@
 title: 'Why SEO Matters'
 date: 2025-01-21T21:47:41+00:00
 draft: false
-
+tags : [
+    "thumbnail",
+]
+thumbnail: "images/SEO.jpg" 
 ---
 
 
