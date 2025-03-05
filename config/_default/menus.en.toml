@@ -4,11 +4,7 @@
   weight = 100
   url = "/"
 
-  [[main]]
-  name = "Blog"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
+ 
 
   [[main]]
   name = "Portfolio"
@@ -43,9 +39,15 @@
   url = "/awards/"
   parent = "accomplishments" 
 
+   [[main]]
+  name = "Blog"
+  weight = 600
+  identifier = "posts"
+  url = "/post/"
+
   [[main]]
   name = "Contact"
-  weight = 600
+  weight = 700
   identifier = "contact"
   url = "/contact/"
 
@@ -54,3 +56,4 @@
   weight = 1
   identifier = "imprint"
   url = "/imprint/"
+

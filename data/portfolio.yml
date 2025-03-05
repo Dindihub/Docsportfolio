@@ -19,7 +19,6 @@ portfolioitems:
           - Sandra Dindi
           - Patrice Chalin
       - name: TUF Website Design 
-        image: '/images/portfolio/website-TUF.png'
         link: https://theupdateframework.io/
         description: 'After the TUF website analysis, I designed a new website with a new Information Architecture based on the Hugo Docsy theme.'
         status: 'Completed'
@@ -29,10 +28,10 @@ portfolioitems:
           - Sandra Dindi
           - Patrice Chalin
       - name: Kubernetes Glossary for SemaText Group
-        image: '/images/portfolio/sematext.png'
         link: https://sematext.com/glossary/kubernetes-quality-of-service-classes/
         status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        description: 'This tutorial introduces the concept of Quality of service (QoS)classes and shows the learner how to correctly configure the QoS classes in a pod for resource management.This is one of the projects I worked on together with the platform enginners and documentation team to create several tutorials on Kubernetes tools and features.'
+        
         tags:
           - Kubernetes
           - DevOps
