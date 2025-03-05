@@ -1,0 +1,32 @@
+# Hugo-generated assets
+.hugo_build.lock
+/public
+
+
+# npm assets
+node_modules/
+package-lock.json
+yarn.lock
+
+# Local scratch folder
+tmp/
+
+# macOS
+.DS_Store
+
+# Misc
+scripts/collector.yaml
+assets/jsconfig.json
+/.netlify
+
+# VS Code
+/.vscode
+
+**/themes/
+demo/
+.hugo/*
+!.hugo/version
+.hugo_build.lock
+/node_modules
+exampleSite/public/
+
