@@ -1,8 +1,6 @@
-# Legal Disclosure
+# By me a Coffee
 
-Information in accordance with the applicable law
-
+sadindi03@gmail.com\
 Sandra Dindi\
 Nairobi County\
-2025\
 Kenya
