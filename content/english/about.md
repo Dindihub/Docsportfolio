@@ -8,10 +8,12 @@ author = "Hugo Authors"
 
 I am a Technical writer with a background in Web development.
 
-I understand technical concepts and procedures and enjoy writing user-facing documentation that improves user experience with technical products.
+I am familiar with technical concepts and enjoy writing non-technical and developer documentation to improve user experience with technical products.
 
-I write product documentation, Marketing copy, technical blog posts, User guides, and API documentation to ease the adoption and use of software technologies.
+I have three years experience Product documentation, Marketing copy, technical blog posts, User guides, and API documentation to ease the adoption and use of software technologies.
 
-I also analyze and design documentation for software companies and websites. I enjoy learning new technologies and seeking opportunities to grow as a technical writer.
+I also help projects analyze their website Information Architecture and design websites. I enjoy learning new technologies and seeking opportunities to grow as a technical writer.
+
+On the side, I run SaaS projects.
 
 
