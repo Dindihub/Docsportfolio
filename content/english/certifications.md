@@ -14,3 +14,4 @@ author = "Hugo Authors"
 * **Semrush**: SEO crash course
 * **Amazon Web Services**: Certified Cloud Practitioner
 * **Moringa School Kenya**: Professional Software Engineering Certification
+* **University of Nairobi**: Journalism and Media Studies
