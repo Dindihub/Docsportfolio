@@ -21,8 +21,6 @@ assets/jsconfig.json
 
 # VS Code
 /.vscode
-
-
 demo/
 exampleSite/public/
 
