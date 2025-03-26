@@ -1,11 +1,11 @@
 ---
-title: 'How to Humanize AI Generated Content'
-date: 2025-03-26T21:47:41+00:00
+title: "How to Humanize AI Generated Content"
+date: "2025-03-26"
 draft: false
 tags : [
     "thumbnail",
 ]
-thumbnail: "images/Robot.jpg"
+thumbnail: "images/robot.jpg"
 
 ---
 
