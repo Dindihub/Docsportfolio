@@ -66,7 +66,7 @@ Use the data you collect to tailor your content strategy. Identify what's workin
 ## 5. Copyfast.ai: Your Secret Weapon for AI Content Humanization
 CopyFast.ai isn't just another AI writing tool. It's designed to help you bridge the gap between robotic text, and engaging, human-quality content. Our platform provides the tools and features you need to transform AI-generated drafts into polished, authentic pieces. Think of it as your co-pilot in the content creation process, helping you to improve the quality of your AI-generated content.
 
-What makes CopyFast.ai different? 
+## What makes CopyFast.ai different? 
 
 It's built with collaboration in mind. Marketing teams can work together in real-time, sharing ideas, providing feedback, and ensuring that everyone is on the same page. The smart editor offers suggestions for improving your writing, identifying areas where the text sounds too robotic or generic. And, the organized collections feature keeps track of all your content, making it easy to find and reuse your best work. It's all about streamlining your workflow and empowering your team to create high-quality content more efficiently.
 
