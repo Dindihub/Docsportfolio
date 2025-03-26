@@ -1,6 +1,6 @@
 ---
-title: 'How to Generate a Brand Voice with AI'
-date: 2025-03-26T21:47:41+00:00
+title: "How to Generate a Brand Voice with AI"
+date: "2025-03-26"
 draft: false
 tags : [
     "thumbnail",
