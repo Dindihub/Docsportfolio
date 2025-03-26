@@ -22,6 +22,7 @@ Connect with your readers authentically by adopting a tone that's familiar to th
 
 [CopyFast.ai](https://www.copyfast.ai/) helps you find your perfect tone by providing suggestions for improving your writing. The smart editor can identify areas where the tone is inconsistent or inappropriate and offer alternative word choices and sentence structures. 
 
+![thumbnail](https://img.youtube.com/vi/4XrypJvdLao&list/0.jpg)
 [Watch a Demo](https://www.youtube.com/watch?v=4XrypJvdLao&list)
 
 And guess what? Google loves authentic content too! The search engine's algorithms are getting smarter every day at identifying and rewarding websites that provide genuine value to users. By humanizing your AI text, you're not just making it more appealing to readers and boosting your SEO. This blend of human insight and AI power is the future of content.
