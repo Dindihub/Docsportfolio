@@ -36,9 +36,9 @@ Ready to take the plunge into AI-powered content creation? Here are some practic
 By taking these steps, you can gradually integrate AI into your workflow and start reaping the benefits of this powerful technology.
 
 ## How to Create a Brand Voice Using Copyfast.ai
-On your dashboard, click the tab New Collection. There fill in the form with the name of your business, type of organisation, and the link to your website or a website you would like to imitate.
+On your dashboard, click the tab **New Collection**. There fill in the form with the name of your business, type of organisation, and the link to your website or a website you would like to imitate.
 
-Then click Generate brand voice. The AI will take less than 1 minute to generate the brand voice and automatically fill in the rest of the form with your brand voice, brand guidelines, brand values, and a description of your collection. All these are just from a link. Next, click Save Collection, and voila you have a brand new collection. You can now start creating content aligned with your brand voice. 
+Then click **Generate brand voice**. The AI will take less than 1 minute to generate the brand voice and automatically fill in the rest of the form with your brand voice, brand guidelines, brand values, and a description of your collection. All these are just from a link. Next, click **Save Collection**, and voila you have a brand new collection. You can now start creating content aligned with your brand voice. 
 
 ## Ready to Boost your Brand?
 Don't let your content strategy remain in the Stone Age. Embrace the power of AI and unlock new levels of efficiency, creativity, and impact. With Copyfast.ai, your team can create high-quality, engaging content that your audience will love while streamlining your workflow and improving search engine rankings.
