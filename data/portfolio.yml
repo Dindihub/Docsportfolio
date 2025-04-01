@@ -1,7 +1,7 @@
 portfolioitems:
   # portfolio category
   - title: Technical Writing Projects
-    description: 'Here is a showcase of my Tutorials, Guides, Information Architecture, and API documentation projects.'
+    description: 'Here is a showcase of technical Tutorials, Guides, Blog posts, Information Architecture, and personal API documentation projects.'
     portfolioitem:
       - name: Information Architecture Analysis of the TUF Website 
         image: '/images/portfolio/code.jpg'
