@@ -31,6 +31,7 @@ portfolioitems:
           - Sandra Dindi
           - Patrice Chalin
       - name: Kubernetes Glossary for SemaText Group
+        image: images/portfolio/sematext.png
         link: https://sematext.com/glossary/kubernetes-quality-of-service-classes/
         status: 'Finished'
         description: 'This tutorial introduces the concept of Quality of service (QoS)classes and shows the learner how to correctly configure the QoS classes in a pod for resource management.This is one of the projects I worked on together with the platform enginners and documentation team to create several tutorials on Kubernetes tools and features.'
