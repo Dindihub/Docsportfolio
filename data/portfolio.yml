@@ -9,6 +9,7 @@ portfolioitems:
         linktext: 'Visit project website'
         link: https://github.com/Dindihub/TUF-docs-analysis/tree/main/analyses/0012-TUF
         description: 'This project was part of the Linux Foundation mentorship program.I focused on analyzing The Update Framework (TUF) documentation and providing improvement according to the CNCF standards.I worked with several mentors from CNCF and TUF to provide improvement to the current website which included creating a new documentation website.'
+        
         tags:
           - TUF
           - CNCF
@@ -19,7 +20,8 @@ portfolioitems:
         authors:
           - Sandra Dindi
           - Patrice Chalin
-      - name: TUF Website Design 
+      - name: TUF Website Design
+        image: /images/portfolio/code.jpg 
         link: https://theupdateframework.io/
         description: 'After the TUF website analysis, I designed a new website with a new Information Architecture based on the Hugo Docsy theme.'
         status: 'Completed'
