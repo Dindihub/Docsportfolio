@@ -21,7 +21,7 @@ portfolioitems:
           - Sandra Dindi
           - Patrice Chalin
       - name: TUF Website Design
-        image: /images/portfolio/code.jpg 
+        image: images/portfolio/website-TUF.png 
         link: https://theupdateframework.io/
         description: 'After the TUF website analysis, I designed a new website with a new Information Architecture based on the Hugo Docsy theme.'
         status: 'Completed'
