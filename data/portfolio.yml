@@ -4,7 +4,7 @@ portfolioitems:
     description: 'Here is a showcase of technical Tutorials, Guides, Blog posts, Information Architecture, and personal API documentation projects.'
     portfolioitem:
       - name: Information Architecture Analysis of the TUF Website 
-        image: /images/portfolio/code.jpg
+        image: images/portfolio/code.jpg
 
         linktext: 'Visit project website'
         link: https://github.com/Dindihub/TUF-docs-analysis/tree/main/analyses/0012-TUF
